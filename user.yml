@@ -1,0 +1,18 @@
+---
+# Personal information
+# Enter information for both team members
+# Leave the second entry as is if there is only one person
+# on your team
+-
+  first: SHASHIKANTH
+  last: KRISHNAMURTHY SRINATH
+  watiam: sks
+  student: 20856664
+  email: sks@uwaterloo.ca
+-
+  first: JUNHUI
+  last: WANG
+  watiam: j2365wan
+  student: 20826672
+  email: j2365wan@uwaterloo.ca
+...
